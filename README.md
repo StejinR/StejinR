@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Stejin 👋
 
-<!--
-**StejinR/StejinR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🔧 About Me
+I am a Product Management Engineer with a strong focus on Mechanical Design and Product Development.  
+I work on CAD modeling, design validation, GD&T, and design automation.
 
-Here are some ideas to get you started:
+I am currently building projects that combine mechanical engineering and programming to improve engineering workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+- Mechanical Design (SolidWorks)
+- GD&T and Manufacturing Drawings
+- Product Development & Validation
+- Design Automation
+- Engineering Documentation
+
+---
+
+## 📂 Projects
+- Design automation tools (in progress)
+- Engineering calculation utilities
+- Parametric design concepts
+
+---
+
+## 📫 Contact
+- LinkedIn:https://www.linkedin.com/in/stejin-r-180667240?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
